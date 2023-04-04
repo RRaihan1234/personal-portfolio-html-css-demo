@@ -197,9 +197,9 @@ p {
     margin-right: 0rem;
 }
 
-/* .header_wrapper .nav-item .nav-link.active{
+.header_wrapper .nav-item .nav-link.active{
     color: var(--primary-text);
-} */
+}
 .header_wrapper .nav-item .nav-link:hover {
     color: var(--primary-text);
 }
